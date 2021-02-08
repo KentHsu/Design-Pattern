@@ -29,3 +29,15 @@ Design patterns implemented by Java - reading notes of 大話設計模式
 * Strategy
 * Memonto
 * Iterator
+
+# How to Run
+
+Main programs are in Client directory.
+
+Change directory to Client and run \*Client.java with desired Design Pattern. Results will be printed out as system output.
+
+  ```
+  cd Client
+  java *Client.java
+  ```
+  
